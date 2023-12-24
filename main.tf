@@ -10,6 +10,7 @@ terraform {
 }
 
 resource "local_file" "terraform-introduction" {
-  content  = "Hi guys, this is the tutorial of Terraform from pkslow.com"
+  content  = "Hi ffss, this is the tutorial of Terraform from pkslow.com"
   filename = "${path.module}/terraform-introduction-by-pkslow.txt"
 }
+
