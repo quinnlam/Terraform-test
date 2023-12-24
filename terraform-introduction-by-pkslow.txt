@@ -1,1 +1,0 @@
-Hi ffss, this is the tutorial of Terraform from pkslow.com
