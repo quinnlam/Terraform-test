@@ -1,0 +1,2 @@
+https://billgrant.io/post/2021-10-01-terraform-fgt-1/
+https://billgrant.io/post/2021-10-12-terraform-fgt-2/
